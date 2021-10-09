@@ -1,0 +1,2 @@
+well, a reducer is a function, more specifically, it's a fucntion which accepts the state and accepts the function
+then based on the action-type it helps us determine the state-change. 
